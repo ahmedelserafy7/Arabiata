@@ -39,6 +39,9 @@ func checkOrderLine() {
             print("\nSo the total price is \(totalPrice) EGP")
             continue
             
+        } else if line == "khalst" {
+            print("Thank you for your time!")
+            exit(EXIT_SUCCESS)
         } else {
             print("\nSorry, order not identified!\n")
         }
