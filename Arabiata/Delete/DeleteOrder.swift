@@ -13,6 +13,7 @@ func deleteAllOrder(item: [String]) {
         if Int(item[1]) == or.index {
             orderStatementArr.removeAll {$0 == or.statement}
             totalPrice = totalPrice - (or.count * or.price)
+            arabOrders.removeLast()
         }
     }
 }
