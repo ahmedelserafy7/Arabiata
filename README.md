@@ -10,7 +10,7 @@
 </p>
 
 
-Welcome to [**Arabiata**](https://youtu.be/O5iPNLG94bc), an app for food ordering. You can add your order, delete all of it, or delete a specific count of it, you can enter a specific order for a specific customer, and you can enter a keyword to save 'em, and another one to finish the order.
+Welcome to [**Arabiata**](https://youtu.be/O5iPNLG94bc), a command line interface for food ordering. You can add your order, delete all of it, or delete a specific count of it, you can enter a specific order for a specific customer, and you can enter a keyword to save 'em, and another one to finish the order.
 
 
  
